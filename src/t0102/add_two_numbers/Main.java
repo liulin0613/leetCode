@@ -1,5 +1,8 @@
 package t0102.add_two_numbers;
 
+import utils.list_node.ListNode;
+import utils.list_node.ListNodeUtils;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -15,12 +18,10 @@ public class Main {
     public static void main(String[] args) {
         int [] arr1 = new int[]{9,9,9,9,9,9,9};
         int [] arr2 = new int[]{9,9,9,9};
-        ListNode l1 = generateListNode(arr1);
-        ListNode l2 = generateListNode(arr2);
-        iteratorListNode(l1);
-        iteratorListNode(l2);
-        iteratorListNode(addTwoNumbers(l1,l2));
-        iteratorListNode(addTwoNumbers2(l1,l2));
+        ListNode l1 = ListNodeUtils.generateListNode(arr1);
+        ListNode l2 = ListNodeUtils.generateListNode(arr2);
+        ListNodeUtils.iteratorListNode(addTwoNumbers(l1,l2));
+        ListNodeUtils.iteratorListNode(addTwoNumbers2(l1,l2));
     }
 
 
@@ -71,7 +72,7 @@ public class Main {
             result[index++] = integer;
         }
 
-        return generateListNode(result);
+        return ListNodeUtils.generateListNode(result);
     }
 
     /**
@@ -111,34 +112,4 @@ public class Main {
         return head;
     }
 
-
-    private static ListNode generateListNode(int[] arr) {
-        ListNode head = new ListNode(arr[0]);
-        ListNode next = head;
-        for (int i = 1; i < arr.length; i++) {
-            next.next = new ListNode(arr[i]);
-            next = next.next;
-        }
-        next.next = null;
-
-        return head;
-    }
-
-    private static void iteratorListNode(ListNode l1) {
-        while (l1!=null){
-            System.out.print(l1.val + " --> ");
-            l1 = l1.next;
-        }
-        System.out.print("null");
-        System.out.println();
-    }
-}
-
-
-class ListNode {
-    int val;
-    ListNode next;
-    ListNode() {}
-    ListNode(int val) { this.val = val; }
-    ListNode(int val, ListNode next) { this.val = val; this.next = next; }
 }
