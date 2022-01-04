@@ -39,3 +39,25 @@ https://leetcode-cn.com/problems/3sum/
 - 有效的括号
 https://leetcode-cn.com/problems/valid-parentheses/
 
+### 0104
+
+- 组合总和
+https://leetcode-cn.com/problems/combination-sum/
+- 在排序数组中查找元素的第一个和最后一个位置
+https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+- 字母异位词分组
+https://leetcode-cn.com/problems/group-anagrams/
+- 跳跃游戏
+https://leetcode-cn.com/problems/jump-game/
+- 最长有效括号
+https://leetcode-cn.com/problems/longest-valid-parentheses/
+- 最大子数组和
+https://leetcode-cn.com/problems/maximum-subarray/
+- 全排列
+https://leetcode-cn.com/problems/permutations/
+- 旋转图像
+https://leetcode-cn.com/problems/rotate-image/
+- 搜索旋转排序数组
+https://leetcode-cn.com/problems/search-in-rotated-sorted-array/
+- 接雨水
+https://leetcode-cn.com/problems/trapping-rain-water/
