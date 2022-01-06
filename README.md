@@ -82,3 +82,26 @@ https://leetcode-cn.com/problems/subsets/
 https://leetcode-cn.com/problems/unique-paths/
 - 单词搜索
 https://leetcode-cn.com/problems/word-search/
+
+### 0106
+
+- 二叉树的中序遍历
+https://leetcode-cn.com/problems/binary-tree-inorder-traversal/
+- 二叉树的层序遍历
+https://leetcode-cn.com/problems/binary-tree-level-order-traversal/
+- 从前序与中序遍历序列构造二叉树
+https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+- 二叉树展开为链表
+https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/
+- 柱状图中最大的矩形
+https://leetcode-cn.com/problems/largest-rectangle-in-histogram/
+- 最大矩形
+https://leetcode-cn.com/problems/maximal-rectangle/
+- 二叉树的最大深度
+https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/
+- 对称二叉树
+https://leetcode-cn.com/problems/symmetric-tree/
+- 不同的二叉搜索树
+https://leetcode-cn.com/problems/unique-binary-search-trees/
+- 验证二叉搜索树
+https://leetcode-cn.com/problems/validate-binary-search-tree/
