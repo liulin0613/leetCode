@@ -2,17 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e40be8b3-6cd0-486e-a324-065f1dd3be56" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/t0106/binary_tree_level_order_traversal/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/t0106/construct_binary_tree_from_preorder_and_inorder_traversal/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/t0106/flatten_binary_tree_to_linked_list/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/t0106/maximum_depth_of_binary_tree/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/t0106/symmetric_tree/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/t0106/unique_binary_search_trees/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/t0106/validate_binary_search_tree/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t0107/best_time_to_buy_and_sell_stock/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t0107/binary_tree_maximum_path_sum/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t0107/insertion_sort_list/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t0107/linked_list_cycle/1641540736.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t0107/linked_list_cycle/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t0107/linked_list_cycle_ii/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t0107/longest_consecutive_sequence/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t0107/lru_cache/LRUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t0107/lru_cache/MyLRUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t0107/maximum_product_subarray/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t0107/meeting_rooms_ii/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t0107/single_number/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t0107/sort_list/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t0107/word_break/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/utils/tree_node/TreeNodeUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/utils/tree_node/TreeNodeUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/tree_node/TreeNodeUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/tree_node/TreeNodeUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/t0106/flatten_binary_tree_to_linked_list/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/t0106/flatten_binary_tree_to_linked_list/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/utils/list_node/ListNodeUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/utils/list_node/ListNodeUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/list_node/ListNodeUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/list_node/ListNodeUtils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,15 +52,33 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/t0107/linked_list_cycle" />
   </component>
-  <component name="RunManager" selected="Application.Main (5)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="t0106.binary_tree_level_order_traversal.Main" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\git\leetCode\src\t0107\linked_list_cycle" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (3)">
+    <configuration name="LRUCache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="t0107.lru_cache.LRUCache" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="t0106.binary_tree_level_order_traversal.*" />
+          <option name="PATTERN" value="t0107.lru_cache.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="t0107.sort_list.Main" />
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="t0107.sort_list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,11 +87,11 @@
       </method>
     </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="t0106.maximum_depth_of_binary_tree.Main" />
+      <option name="MAIN_CLASS_NAME" value="t0107.insertion_sort_list.Main" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="t0106.maximum_depth_of_binary_tree.*" />
+          <option name="PATTERN" value="t0107.insertion_sort_list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,11 +100,11 @@
       </method>
     </configuration>
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="t0106.construct_binary_tree_from_preorder_and_inorder_traversal.Main" />
+      <option name="MAIN_CLASS_NAME" value="t0107.maximum_product_subarray.Main" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="t0106.construct_binary_tree_from_preorder_and_inorder_traversal.*" />
+          <option name="PATTERN" value="t0107.maximum_product_subarray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,25 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="t0106.flatten_binary_tree_to_linked_list.Main" />
+    <configuration name="MyLRUCache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="t0107.lru_cache.MyLRUCache" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="t0106.flatten_binary_tree_to_linked_list.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="t0106.symmetric_tree.Main" />
-      <module name="leetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="t0106.symmetric_tree.*" />
+          <option name="PATTERN" value="t0107.lru_cache.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.MyLRUCache" />
+        <item itemvalue="Application.LRUCache" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +149,7 @@
       <workItem from="1641176746875" duration="74248000" />
       <workItem from="1641375803928" duration="7065000" />
       <workItem from="1641436389907" duration="8576000" />
-      <workItem from="1641450298314" duration="16815000" />
+      <workItem from="1641450298314" duration="44942000" />
     </task>
     <servers />
   </component>
@@ -144,30 +157,30 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1725" y="409" key="#com.intellij.ide.util.MemberChooser" timestamp="1641219054993">
+    <state x="1725" y="409" key="#com.intellij.ide.util.MemberChooser" timestamp="1641542889187">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1725" y="409" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1641219054993" />
-    <state width="1382" height="416" key="GridCell.Tab.0.bottom" timestamp="1641468736541">
+    <state x="1725" y="409" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1641542889187" />
+    <state width="1236" height="450" key="GridCell.Tab.0.bottom" timestamp="1641555381465">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="948" height="249" key="GridCell.Tab.0.bottom/0.0.1493.933@0.0.1493.933" timestamp="1641448052153" />
-    <state width="1382" height="416" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1641468736541" />
-    <state width="1382" height="416" key="GridCell.Tab.0.center" timestamp="1641468736541">
+    <state width="1236" height="450" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1641555381465" />
+    <state width="1236" height="450" key="GridCell.Tab.0.center" timestamp="1641555381464">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="948" height="249" key="GridCell.Tab.0.center/0.0.1493.933@0.0.1493.933" timestamp="1641448052153" />
-    <state width="1382" height="416" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1641468736541" />
-    <state width="1382" height="416" key="GridCell.Tab.0.left" timestamp="1641468736541">
+    <state width="1236" height="450" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1641555381464" />
+    <state width="1236" height="450" key="GridCell.Tab.0.left" timestamp="1641555381464">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="948" height="249" key="GridCell.Tab.0.left/0.0.1493.933@0.0.1493.933" timestamp="1641448052153" />
-    <state width="1382" height="416" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1641468736541" />
-    <state width="1382" height="416" key="GridCell.Tab.0.right" timestamp="1641468736541">
+    <state width="1236" height="450" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1641555381464" />
+    <state width="1236" height="450" key="GridCell.Tab.0.right" timestamp="1641555381464">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="948" height="249" key="GridCell.Tab.0.right/0.0.1493.933@0.0.1493.933" timestamp="1641448052153" />
-    <state width="1382" height="416" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1641468736541" />
+    <state width="1236" height="450" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1641555381464" />
     <state width="1234" height="488" key="GridCell.Tab.1.bottom" timestamp="1641191960601">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -188,13 +201,13 @@
       <screen x="0" y="0" width="1493" height="933" />
     </state>
     <state x="523" y="67" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1493.933@0.0.1493.933" timestamp="1641443680249" />
-    <state x="1576" y="332" key="run.anything.popup" timestamp="1641382141559">
+    <state x="1576" y="332" key="run.anything.popup" timestamp="1641526185589">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1576" y="332" key="run.anything.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1641382141559" />
-    <state x="1583" y="320" width="672" height="678" key="search.everywhere.popup" timestamp="1641462082241">
+    <state x="1576" y="332" key="run.anything.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1641526185589" />
+    <state x="1583" y="320" width="672" height="678" key="search.everywhere.popup" timestamp="1641538097908">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1583" y="320" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1641462082241" />
+    <state x="1583" y="320" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1641538097908" />
   </component>
 </project>

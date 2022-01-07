@@ -23,4 +23,27 @@ public class ListNodeUtils {
         System.out.print("null");
         System.out.println();
     }
+
+    public static void generateCycle(ListNode head,int pos){
+        if(pos != -1){
+            // 通过 pos 构建环
+            ListNode bf = head;
+            int index = 0;
+
+            ListNode cycleNode = null;
+            while (bf!=null){
+                if(index == pos){
+                    cycleNode = bf;
+                }
+
+                if(bf.next == null){
+                    bf.next = cycleNode;
+                    break;
+                }
+
+                bf = bf.next;
+                index++;
+            }
+        }
+    }
 }
