@@ -132,3 +132,19 @@ https://leetcode-cn.com/problems/single-number/
 https://leetcode-cn.com/problems/sort-list/
 - 单词拆分
 https://leetcode-cn.com/problems/word-break/
+
+### 0108
+- 打家劫舍
+https://leetcode-cn.com/problems/house-robber/
+- 相交链表
+https://leetcode-cn.com/problems/intersection-of-two-linked-lists/
+- 多数元素
+https://leetcode-cn.com/problems/majority-element/
+- 岛屿的最大面积
+https://leetcode-cn.com/problems/max-area-of-island/
+- 最小栈
+https://leetcode-cn.com/problems/min-stack/
+- 岛屿数量
+https://leetcode-cn.com/problems/number-of-islands/
+- 反转链表
+https://leetcode-cn.com/problems/reverse-linked-list/

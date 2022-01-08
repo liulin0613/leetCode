@@ -46,4 +46,32 @@ public class ListNodeUtils {
             }
         }
     }
+
+    public static ListNode[] generateIntersectionList(int[] listA, int[] listB, int skipA, int skipB) {
+        ListNode h1 = new ListNode(-1);
+        ListNode ph1 = h1;
+        for (int i = 0; i < skipA; i++) {
+            ph1.next = new ListNode(listA[i]);
+            ph1 = ph1.next;
+        }
+
+        ListNode h2 = new ListNode(-1);
+        ListNode ph2 = h2;
+        for (int i = 0; i < skipB; i++) {
+            ph2.next = new ListNode(listB[i]);
+            ph2 = ph2.next;
+        }
+
+        for (int i = skipA; i < listA.length; i++) {
+            ListNode node = new ListNode(listA[i]);
+            ph1.next = node;
+            ph1 = ph1.next;
+
+            ph2.next = node;
+            ph2 = ph2.next;
+        }
+
+        return new ListNode[]{h1.next,h2.next};
+
+    }
 }
