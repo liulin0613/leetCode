@@ -148,3 +148,21 @@ https://leetcode-cn.com/problems/min-stack/
 https://leetcode-cn.com/problems/number-of-islands/
 - 反转链表
 https://leetcode-cn.com/problems/reverse-linked-list/
+
+### 0109
+- 课程表
+https://leetcode-cn.com/problems/course-schedule/
+- 实现 Trie (前缀树)
+https://leetcode-cn.com/problems/implement-trie-prefix-tree/
+- 翻转二叉树
+https://leetcode-cn.com/problems/invert-binary-tree/
+- 二叉树的最近公共祖先
+https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/
+- 最大正方形
+https://leetcode-cn.com/problems/maximal-square/
+- 回文链表
+https://leetcode-cn.com/problems/palindrome-linked-list/
+- 除自身以外数组的乘积
+https://leetcode-cn.com/problems/product-of-array-except-self/
+- 滑动窗口最大值
+https://leetcode-cn.com/problems/sliding-window-maximum/
