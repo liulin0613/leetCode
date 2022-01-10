@@ -166,3 +166,15 @@ https://leetcode-cn.com/problems/palindrome-linked-list/
 https://leetcode-cn.com/problems/product-of-array-except-self/
 - 滑动窗口最大值
 https://leetcode-cn.com/problems/sliding-window-maximum/
+
+### 0110
+- 寻找重复数
+https://leetcode-cn.com/problems/find-the-duplicate-number/
+- 移动零
+https://leetcode-cn.com/problems/move-zeroes/
+- 完全平方数
+https://leetcode-cn.com/problems/perfect-squares/
+- 搜索二维矩阵 II
+https://leetcode-cn.com/problems/search-a-2d-matrix-ii/
+- 二叉树的序列化与反序列化
+https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/
