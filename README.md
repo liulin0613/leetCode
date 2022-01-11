@@ -178,3 +178,22 @@ https://leetcode-cn.com/problems/perfect-squares/
 https://leetcode-cn.com/problems/search-a-2d-matrix-ii/
 - 二叉树的序列化与反序列化
 https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/
+
+### 1011
+- 最佳买卖股票时机含冷冻期
+https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
+- 戳气球
+https://leetcode-cn.com/problems/burst-balloons/
+- 零钱兑换
+https://leetcode-cn.com/problems/coin-change/
+- 比特位计数
+https://leetcode-cn.com/problems/counting-bits/
+- 打家劫舍 III
+https://leetcode-cn.com/problems/house-robber-iii/
+- 最长递增子序列
+https://leetcode-cn.com/problems/longest-increasing-subsequence/
+- 删除无效的括号
+https://leetcode-cn.com/problems/remove-invalid-parentheses/
+- 前 K 个高频元素
+https://leetcode-cn.com/problems/top-k-frequent-elements/
+

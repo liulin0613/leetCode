@@ -2,13 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e40be8b3-6cd0-486e-a324-065f1dd3be56" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/t0110/find_the_duplicate_number/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/t0110/move_zeroes/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/t0110/perfect_squares/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/t0110/search_a_2d_matrix_ii/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/t0110/serialize_and_deserialize_binary_tree/Codec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t0111/best_time_to_buy_and_sell_stock_with_cooldown/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t0111/burst_balloons/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t0111/coin_change/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t0111/counting_bits/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t0111/house_robber_iii/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t0111/longest_increasing_subsequence/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t0111/remove_invalid_parentheses/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t0111/top_k_frequent_elements/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/t0110/serialize_and_deserialize_binary_tree/Codec.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/t0110/serialize_and_deserialize_binary_tree/Codec.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,39 +51,13 @@
       <recent name="D:\Project\git\leetCode\src\t0107\linked_list_cycle" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Codec">
-    <configuration name="Codec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="t0110.serialize_and_deserialize_binary_tree.Codec" />
-      <module name="leetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="t0110.serialize_and_deserialize_binary_tree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="t0110.perfect_squares.Main" />
-      <module name="leetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="t0110.perfect_squares.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="t0110.search_a_2d_matrix_ii.Main" />
+      <option name="MAIN_CLASS_NAME" value="t0111.top_k_frequent_elements.Main" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="t0110.search_a_2d_matrix_ii.*" />
+          <option name="PATTERN" value="t0111.top_k_frequent_elements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,11 +66,11 @@
       </method>
     </configuration>
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="t0110.move_zeroes.Main" />
+      <option name="MAIN_CLASS_NAME" value="t0111.burst_balloons.Main" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="t0110.move_zeroes.*" />
+          <option name="PATTERN" value="t0111.burst_balloons.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,11 +79,37 @@
       </method>
     </configuration>
     <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="t0110.find_the_duplicate_number.Main" />
+      <option name="MAIN_CLASS_NAME" value="t0111.coin_change.Main" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="t0110.find_the_duplicate_number.*" />
+          <option name="PATTERN" value="t0111.coin_change.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="t0111.house_robber_iii.Main" />
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="t0111.house_robber_iii.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="t0111.counting_bits.Main" />
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="t0111.counting_bits.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Codec" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +141,7 @@
       <workItem from="1641176746875" duration="74248000" />
       <workItem from="1641375803928" duration="7065000" />
       <workItem from="1641436389907" duration="8576000" />
-      <workItem from="1641450298314" duration="96606000" />
+      <workItem from="1641450298314" duration="115755000" />
     </task>
     <servers />
   </component>
@@ -149,42 +153,42 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1725" y="409" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1641542889187" />
-    <state width="1234" height="447" key="GridCell.Tab.0.bottom" timestamp="1641821897510">
+    <state width="1234" height="293" key="GridCell.Tab.0.bottom" timestamp="1641900534698">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="948" height="249" key="GridCell.Tab.0.bottom/0.0.1493.933@0.0.1493.933" timestamp="1641448052153" />
-    <state width="1234" height="447" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1641821897510" />
-    <state width="1234" height="447" key="GridCell.Tab.0.center" timestamp="1641821897509">
+    <state width="1234" height="293" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1641900534698" />
+    <state width="1234" height="293" key="GridCell.Tab.0.center" timestamp="1641900534698">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="948" height="249" key="GridCell.Tab.0.center/0.0.1493.933@0.0.1493.933" timestamp="1641448052153" />
-    <state width="1234" height="447" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1641821897509" />
-    <state width="1234" height="447" key="GridCell.Tab.0.left" timestamp="1641821897509">
+    <state width="1234" height="293" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1641900534698" />
+    <state width="1234" height="293" key="GridCell.Tab.0.left" timestamp="1641900534698">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="948" height="249" key="GridCell.Tab.0.left/0.0.1493.933@0.0.1493.933" timestamp="1641448052153" />
-    <state width="1234" height="447" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1641821897509" />
-    <state width="1234" height="447" key="GridCell.Tab.0.right" timestamp="1641821897509">
+    <state width="1234" height="293" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1641900534698" />
+    <state width="1234" height="293" key="GridCell.Tab.0.right" timestamp="1641900534698">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="948" height="249" key="GridCell.Tab.0.right/0.0.1493.933@0.0.1493.933" timestamp="1641448052153" />
-    <state width="1234" height="447" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1641821897509" />
-    <state width="1234" height="490" key="GridCell.Tab.1.bottom" timestamp="1641712695587">
+    <state width="1234" height="293" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1641900534698" />
+    <state width="1234" height="487" key="GridCell.Tab.1.bottom" timestamp="1641887750891">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="490" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1641712695587" />
-    <state width="1234" height="490" key="GridCell.Tab.1.center" timestamp="1641712695587">
+    <state width="1234" height="487" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1641887750891" />
+    <state width="1234" height="487" key="GridCell.Tab.1.center" timestamp="1641887750891">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="490" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1641712695587" />
-    <state width="1234" height="490" key="GridCell.Tab.1.left" timestamp="1641712695587">
+    <state width="1234" height="487" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1641887750891" />
+    <state width="1234" height="487" key="GridCell.Tab.1.left" timestamp="1641887750891">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="490" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1641712695587" />
-    <state width="1234" height="490" key="GridCell.Tab.1.right" timestamp="1641712695587">
+    <state width="1234" height="487" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1641887750891" />
+    <state width="1234" height="487" key="GridCell.Tab.1.right" timestamp="1641887750891">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="490" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1641712695587" />
+    <state width="1234" height="487" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1641887750891" />
     <state x="523" y="67" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1641443680249">
       <screen x="0" y="0" width="1493" height="933" />
     </state>
@@ -193,9 +197,9 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1576" y="332" key="run.anything.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1641526185589" />
-    <state x="1583" y="320" width="672" height="678" key="search.everywhere.popup" timestamp="1641538097908">
+    <state x="1583" y="320" width="672" height="678" key="search.everywhere.popup" timestamp="1641886453675">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1583" y="320" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1641538097908" />
+    <state x="1583" y="320" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1641886453675" />
   </component>
 </project>
