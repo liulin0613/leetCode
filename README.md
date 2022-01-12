@@ -197,3 +197,32 @@ https://leetcode-cn.com/problems/remove-invalid-parentheses/
 - 前 K 个高频元素
 https://leetcode-cn.com/problems/top-k-frequent-elements/
 
+### 1012
+- 把二叉搜索树转换为累加树
+https://leetcode-cn.com/problems/convert-bst-to-greater-tree/
+- 字符串解码
+https://leetcode-cn.com/problems/decode-string/
+- 除法求值
+https://leetcode-cn.com/problems/evaluate-division/
+- 找到字符串中所有字母异位词
+https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/
+- 找到所有数组中消失的数字
+https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/
+- 汉明距离
+https://leetcode-cn.com/problems/hamming-distance/
+- 分割等和子集
+https://leetcode-cn.com/problems/partition-equal-subset-sum/
+- 路径总和 III
+https://leetcode-cn.com/problems/path-sum-iii/
+- 根据身高重建队列
+https://leetcode-cn.com/problems/queue-reconstruction-by-height/
+- 目标和
+https://leetcode-cn.com/problems/target-sum/
+
+### TODO 
+- 并查集相关题目
+https://leetcode-cn.com/problems/evaluate-division/solution/399-chu-fa-qiu-zhi-nan-du-zhong-deng-286-w45d/
+- 力扣平台上的股票类型的题目
+https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/solution/zui-jia-mai-mai-gu-piao-shi-ji-han-leng-dong-qi-4/
+- 背包问题
+https://leetcode-cn.com/problems/partition-equal-subset-sum/solution/0-1-bei-bao-wen-ti-xiang-jie-zhen-dui-ben-ti-de-yo/
