@@ -219,6 +219,25 @@ https://leetcode-cn.com/problems/queue-reconstruction-by-height/
 - 目标和
 https://leetcode-cn.com/problems/target-sum/
 
+### 1013
+- 二叉树的直径
+https://leetcode-cn.com/problems/diameter-of-binary-tree/
+- 合并二叉树
+https://leetcode-cn.com/problems/merge-two-binary-trees/
+- 最短无序连续子数组
+https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/
+- 和为 K 的子数组
+https://leetcode-cn.com/problems/subarray-sum-equals-k/
+
+### 1014
+- 每日温度
+https://leetcode-cn.com/problems/daily-temperatures/
+- 回文子串
+https://leetcode-cn.com/problems/palindromic-substrings/
+- 任务调度器
+https://leetcode-cn.com/problems/task-scheduler/
+
+
 ### TODO 
 - 并查集相关题目
 https://leetcode-cn.com/problems/evaluate-division/solution/399-chu-fa-qiu-zhi-nan-du-zhong-deng-286-w45d/
@@ -226,3 +245,4 @@ https://leetcode-cn.com/problems/evaluate-division/solution/399-chu-fa-qiu-zhi-n
 https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/solution/zui-jia-mai-mai-gu-piao-shi-ji-han-leng-dong-qi-4/
 - 背包问题
 https://leetcode-cn.com/problems/partition-equal-subset-sum/solution/0-1-bei-bao-wen-ti-xiang-jie-zhen-dui-ben-ti-de-yo/
+
