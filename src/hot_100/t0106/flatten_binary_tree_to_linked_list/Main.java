@@ -29,7 +29,7 @@ public class Main {
         TreeNode s = newNode;
         preOrder(root);
 
-        root.right = s.right.right;
+        root = s.right.right;
         root.left = null;
     }
 
