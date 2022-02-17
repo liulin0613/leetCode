@@ -47,3 +47,20 @@ https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-
 - 剑指 Offer 07. 重建二叉树
 https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/
 
+
+### 0216
+
+- 剑指 Offer 17. 打印从1到最大的n位数
+https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/
+- 剑指 Offer 24. 反转链表
+https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/
+- 剑指 Offer 35. 复杂链表的复制
+https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/
+- 剑指 Offer 22. 链表中倒数第k个节点
+https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/
+- 剑指 Offer 18. 删除链表的节点
+https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/
+- 剑指 Offer 16. 数值的整数次方
+https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/
+- 面试题19. 正则表达式匹配
+https://leetcode-cn.com/problems/zheng-ze-biao-da-shi-pi-pei-lcof/

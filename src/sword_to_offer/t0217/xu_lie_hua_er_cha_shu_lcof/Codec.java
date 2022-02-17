@@ -1,4 +1,4 @@
-package hot_100.t0110.serialize_and_deserialize_binary_tree;
+package sword_to_offer.t0217.xu_lie_hua_er_cha_shu_lcof;
 
 import utils.tree_node.TreeNode;
 
@@ -6,14 +6,18 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 /**
- * https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/
+ * https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof/
  *
- * 297. 二叉树的序列化与反序列化
+ * 剑指 Offer 37. 序列化二叉树
  * 困难
  *
  * @author liulin
  */
 public class Codec {
+    public static void main(String[] args) {
+
+    }
+
     // Encodes a tree to a single string.
     public String serialize(TreeNode root) {
         Queue<TreeNode> queue = new LinkedList<>();
@@ -65,27 +69,5 @@ public class Codec {
         }
 
         return root;
-    }
-
-    public static void main(String[] args) {
-
-        Integer[] nodes = new Integer[]{4,-7,-3,null,null,-9,-3,9,-7,-4,null,6,null,-6,-6,null,null,0,6,5,null,9,null,null,-1,-4,null,null,null,-2};
-
-        StringBuilder sb = new StringBuilder();
-        for (Integer node : nodes) {
-            if(node != null){
-                sb.append(node).append(",");
-            }else {
-                sb.append("null").append(",");
-            }
-        }
-
-        Codec deser = new Codec();
-        TreeNode root = deser.deserialize(sb.toString());
-
-        Codec ser = new Codec();
-        System.out.println(ser.serialize(root));
-
-        deser.deserialize(ser.serialize(root));
     }
 }
