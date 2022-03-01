@@ -2,25 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e40be8b3-6cd0-486e-a324-065f1dd3be56" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/sword_to_offer/t0217/bao_han_minhan_shu_de_zhan_lcof/MinStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sword_to_offer/t0217/er_cha_sou_suo_shu_yu_shuang_xiang_lian_biao_lcof/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sword_to_offer/t0217/lian_xu_zi_shu_zu_de_zui_da_he_lcof/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sword_to_offer/t0217/nzheng_shu_zhong_1chu_xian_de_ci_shu_lcof/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sword_to_offer/t0217/shu_ju_liu_zhong_de_zhong_wei_shu_lcof/MedianFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sword_to_offer/t0217/shu_ju_liu_zhong_de_zhong_wei_shu_lcof/MedianFinder2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sword_to_offer/t0217/shu_zu_zhong_chu_xian_ci_shu_chao_guo_yi_ban_de_shu_zi_lcof/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sword_to_offer/t0217/xu_lie_hua_er_cha_shu_lcof/Codec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sword_to_offer/t0217/zhan_de_ya_ru_dan_chu_xu_lie_lcof/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sword_to_offer/t0217/zi_fu_chuan_de_pai_lie_lcof/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sword_to_offer/t0217/zui_xiao_de_kge_shu_lcof/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sword_to_offer/t0301/ba_shu_zi_fan_yi_cheng_zi_fu_chuan_lcof/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sword_to_offer/t0301/ba_shu_zu_pai_cheng_zui_xiao_de_shu_lcof/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sword_to_offer/t0301/chou_shu_lcof/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sword_to_offer/t0301/cong_shang_dao_xia_da_yin_er_cha_shu_ii_lcof/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sword_to_offer/t0301/cong_shang_dao_xia_da_yin_er_cha_shu_iii_lcof/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sword_to_offer/t0301/di_yi_ge_zhi_chu_xian_yi_ci_de_zi_fu_lcof/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sword_to_offer/t0301/er_cha_shu_de_shen_du_lcof/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sword_to_offer/t0301/er_cha_shu_zhong_he_wei_mou_yi_zhi_de_lu_jing_lcof/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sword_to_offer/t0301/er_cha_sou_suo_shu_de_di_kda_jie_dian_lcof/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sword_to_offer/t0301/er_cha_sou_suo_shu_de_hou_xu_bian_li_xu_lie_lcof/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sword_to_offer/t0301/li_wu_de_zui_da_jie_zhi_lcof/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sword_to_offer/t0301/liang_ge_lian_biao_de_di_yi_ge_gong_gong_jie_dian_lcof/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sword_to_offer/t0301/ping_heng_er_cha_shu_lcof/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sword_to_offer/t0301/shu_zi_xu_lie_zhong_mou_yi_wei_de_shu_zi_lcof/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sword_to_offer/t0301/shu_zu_zhong_de_ni_xu_dui_lcof/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sword_to_offer/t0301/zui_chang_bu_han_zhong_fu_zi_fu_de_zi_zi_fu_chuan_lcof/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/hot_100/t0110/serialize_and_deserialize_binary_tree/Codec.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/hot_100/t0110/serialize_and_deserialize_binary_tree/Codec.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/navigation/hot_100_review.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/navigation/hot_100_review.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/navigation/sword_to_offer.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/navigation/sword_to_offer.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/sword_to_offer/t0216/shan_chu_lian_biao_de_jie_dian_lcof/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/sword_to_offer/t0216/shan_chu_lian_biao_de_jie_dian_lcof/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hot_100/t0110/serialize_and_deserialize_binary_tree/Codec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot_100/t0110/serialize_and_deserialize_binary_tree/Codec.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/navigation/hot_100_review.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/navigation/hot_100_review.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/META-INF/leetCode.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/sword_to_offer/t0215/shu_de_zi_jie_gou_lcof/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/sword_to_offer/t0215/shu_de_zi_jie_gou_lcof/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/navigation/sword_to_offer.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/navigation/sword_to_offer.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,33 +54,20 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/t0107/linked_list_cycle" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Project\git\leetCode\src\t0107\linked_list_cycle" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (4)">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sword_to_offer.t0217.zhan_de_ya_ru_dan_chu_xu_lie_lcof.Main" />
+      <option name="MAIN_CLASS_NAME" value="sword_to_offer.t0301.ping_heng_er_cha_shu_lcof.Main" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sword_to_offer.t0217.zhan_de_ya_ru_dan_chu_xu_lie_lcof.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sword_to_offer.t0217.zi_fu_chuan_de_pai_lie_lcof.Main" />
-      <module name="leetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sword_to_offer.t0217.zi_fu_chuan_de_pai_lie_lcof.*" />
+          <option name="PATTERN" value="sword_to_offer.t0301.ping_heng_er_cha_shu_lcof.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,11 +76,11 @@
       </method>
     </configuration>
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sword_to_offer.t0217.nzheng_shu_zhong_1chu_xian_de_ci_shu_lcof.Main" />
+      <option name="MAIN_CLASS_NAME" value="sword_to_offer.t0301.shu_zu_zhong_de_ni_xu_dui_lcof.Main" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sword_to_offer.t0217.nzheng_shu_zhong_1chu_xian_de_ci_shu_lcof.*" />
+          <option name="PATTERN" value="sword_to_offer.t0301.shu_zu_zhong_de_ni_xu_dui_lcof.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,11 +89,24 @@
       </method>
     </configuration>
     <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sword_to_offer.t0217.shu_zu_zhong_chu_xian_ci_shu_chao_guo_yi_ban_de_shu_zi_lcof.Main" />
+      <option name="MAIN_CLASS_NAME" value="sword_to_offer.t0301.liang_ge_lian_biao_de_di_yi_ge_gong_gong_jie_dian_lcof.Main" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sword_to_offer.t0217.shu_zu_zhong_chu_xian_ci_shu_chao_guo_yi_ban_de_shu_zi_lcof.*" />
+          <option name="PATTERN" value="sword_to_offer.t0301.liang_ge_lian_biao_de_di_yi_ge_gong_gong_jie_dian_lcof.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sword_to_offer.t0301.er_cha_sou_suo_shu_de_di_kda_jie_dian_lcof.Main" />
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sword_to_offer.t0301.er_cha_sou_suo_shu_de_di_kda_jie_dian_lcof.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +115,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sword_to_offer.t0217.lian_xu_zi_shu_zu_de_zui_da_he_lcof.Main" />
+      <option name="MAIN_CLASS_NAME" value="sword_to_offer.t0301.er_cha_shu_de_shen_du_lcof.Main" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sword_to_offer.t0217.lian_xu_zi_shu_zu_de_zui_da_he_lcof.*" />
+          <option name="PATTERN" value="sword_to_offer.t0301.er_cha_shu_de_shen_du_lcof.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -170,6 +171,7 @@
       <workItem from="1644889506711" duration="106000" />
       <workItem from="1644905900429" duration="17407000" />
       <workItem from="1644998823085" duration="24554000" />
+      <workItem from="1646099930929" duration="19781000" />
     </task>
     <servers />
   </component>
@@ -185,25 +187,25 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1060" y="455" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1645084203719" />
-    <state width="1236" height="244" key="GridCell.Tab.0.bottom" timestamp="1645103772923">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1450" height="136" key="GridCell.Tab.0.bottom" timestamp="1646127890152">
+      <screen x="0" y="0" width="1493" height="933" />
     </state>
-    <state width="948" height="249" key="GridCell.Tab.0.bottom/0.0.1493.933@0.0.1493.933" timestamp="1641448052153" />
+    <state width="1450" height="136" key="GridCell.Tab.0.bottom/0.0.1493.933@0.0.1493.933" timestamp="1646127890152" />
     <state width="1236" height="244" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1645103772923" />
-    <state width="1236" height="244" key="GridCell.Tab.0.center" timestamp="1645103772923">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1450" height="136" key="GridCell.Tab.0.center" timestamp="1646127890152">
+      <screen x="0" y="0" width="1493" height="933" />
     </state>
-    <state width="948" height="249" key="GridCell.Tab.0.center/0.0.1493.933@0.0.1493.933" timestamp="1641448052153" />
+    <state width="1450" height="136" key="GridCell.Tab.0.center/0.0.1493.933@0.0.1493.933" timestamp="1646127890152" />
     <state width="1236" height="244" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1645103772923" />
-    <state width="1236" height="244" key="GridCell.Tab.0.left" timestamp="1645103772923">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1450" height="136" key="GridCell.Tab.0.left" timestamp="1646127890152">
+      <screen x="0" y="0" width="1493" height="933" />
     </state>
-    <state width="948" height="249" key="GridCell.Tab.0.left/0.0.1493.933@0.0.1493.933" timestamp="1641448052153" />
+    <state width="1450" height="136" key="GridCell.Tab.0.left/0.0.1493.933@0.0.1493.933" timestamp="1646127890152" />
     <state width="1236" height="244" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1645103772923" />
-    <state width="1236" height="244" key="GridCell.Tab.0.right" timestamp="1645103772923">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1450" height="136" key="GridCell.Tab.0.right" timestamp="1646127890152">
+      <screen x="0" y="0" width="1493" height="933" />
     </state>
-    <state width="948" height="249" key="GridCell.Tab.0.right/0.0.1493.933@0.0.1493.933" timestamp="1641448052153" />
+    <state width="1450" height="136" key="GridCell.Tab.0.right/0.0.1493.933@0.0.1493.933" timestamp="1646127890152" />
     <state width="1236" height="244" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1645103772923" />
     <state width="2517" height="489" key="GridCell.Tab.1.bottom" timestamp="1642254793203">
       <screen x="0" y="0" width="2560" height="1400" />
@@ -233,9 +235,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="654" y="310" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1644804836146" />
-    <state x="1576" y="332" key="run.anything.popup" timestamp="1641526185589">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="919" y="221" key="run.anything.popup" timestamp="1646123446037">
+      <screen x="0" y="0" width="1493" height="933" />
     </state>
+    <state x="919" y="221" key="run.anything.popup/0.0.1493.933@0.0.1493.933" timestamp="1646123446037" />
     <state x="1576" y="332" key="run.anything.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1641526185589" />
     <state x="1583" y="320" width="672" height="678" key="search.everywhere.popup" timestamp="1641962824896">
       <screen x="0" y="0" width="2560" height="1400" />
