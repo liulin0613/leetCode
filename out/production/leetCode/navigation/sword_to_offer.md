@@ -64,3 +64,39 @@ https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/
 https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/
 - 面试题19. 正则表达式匹配
 https://leetcode-cn.com/problems/zheng-ze-biao-da-shi-pi-pei-lcof/
+
+### 0301
+
+- 剑指 Offer 46. 把数字翻译成字符串
+https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/
+- 剑指 Offer 45. 把数组排成最小的数
+https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/
+- 剑指 Offer 49. 丑数
+https://leetcode-cn.com/problems/chou-shu-lcof/
+- 剑指 Offer 32 - II. 从上到下打印二叉树 II
+https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/
+- 剑指 Offer 32 - III. 从上到下打印二叉树 III
+https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/
+- 剑指 Offer 50. 第一个只出现一次的字符
+https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/
+- 剑指 Offer 55 - I. 二叉树的深度
+https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/
+- 剑指 Offer 34. 二叉树中和为某一值的路径
+https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/
+- 剑指 Offer 54. 二叉搜索树的第k大节点
+https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/
+- 剑指 Offer 33. 二叉搜索树的后序遍历序列
+https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/
+- 剑指 Offer 47. 礼物的最大价值
+https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/
+- 剑指 Offer 52. 两个链表的第一个公共节点
+https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/
+- 剑指 Offer 55 - II. 平衡二叉树
+https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/
+- 剑指 Offer 44. 数字序列中某一位的数字
+https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof/
+- 剑指 Offer 51. 数组中的逆序对
+https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/
+- 剑指 Offer 48. 最长不含重复字符的子字符串
+https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/
+
