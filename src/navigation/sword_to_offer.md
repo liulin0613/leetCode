@@ -100,3 +100,44 @@ https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/
 - 剑指 Offer 48. 最长不含重复字符的子字符串
 https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/
 
+### 0302
+
+- 剑指 Offer 61. 扑克牌中的顺子
+https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/
+- 剑指 Offer 59 - II. 队列的最大值
+https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/
+- 剑指 Offer 58 - I. 翻转单词顺序
+https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/
+- 剑指 Offer 63. 股票的最大利润
+https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof/
+- 剑指 Offer 57 - II. 和为s的连续正数序列
+https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/
+- Offer 57. 和为s的两个数字
+https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/
+- 剑指 Offer 59 - I. 滑动窗口的最大值
+https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/
+- 剑指 Offer 60. n个骰子的点数
+https://leetcode-cn.com/problems/nge-tou-zi-de-dian-shu-lcof/
+- 剑指 Offer 56 - II. 数组中数字出现的次数 II
+https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/
+- 剑指 Offer 56 - I. 数组中数字出现的次数
+https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/
+- 剑指 Offer 62. 圆圈中最后剩下的数字
+https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/
+
+### 0303
+
+- 剑指 Offer 67. 把字符串转换成整数
+https://leetcode-cn.com/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof/
+- 剑指 Offer 65. 不用加减乘除做加法
+https://leetcode-cn.com/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof/
+- 面试题32 - I. 从上到下打印二叉树
+https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/
+- 剑指 Offer 68 - II. 二叉树的最近公共祖先
+https://leetcode-cn.com/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof/
+- 剑指 Offer 68 - I. 二叉搜索树的最近公共祖先
+https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof/
+- 剑指 Offer 66. 构建乘积数组
+https://leetcode-cn.com/problems/gou-jian-cheng-ji-shu-zu-lcof/
+- 剑指 Offer 64. 求1+2+…+n
+https://leetcode-cn.com/problems/qiu-12n-lcof/
