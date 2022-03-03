@@ -1,23 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e40be8b3-6cd0-486e-a324-065f1dd3be56" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/special_column/searchs/SearchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/special_column/searchs/binarySearch/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/special_column/searchs/leftOrRightSearch/LeftOrRightSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/special_column/searchs/linearSearch/LinearSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/special_column/searchs/quickSelect/QuickSelect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/special_column/sorts/SortTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/special_column/sorts/bubbleSort/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/special_column/sorts/heapSort/HeapSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/special_column/sorts/insertionSort/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/special_column/sorts/mergeSort/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/special_column/sorts/quickSort/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/special_column/sorts/selectionSort/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/special_column/sorts/shellSort/ShellSort.java" afterDir="false" />
+    <list default="true" id="5547bf89-1ec3-4e52-98d4-65218dcd3a8d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/navigation/sword_to_offer.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/navigation/sword_to_offer.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,6 +123,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (5)" />
+      <item itemvalue="Application.SortTest" />
+      <item itemvalue="Application.SearchTest" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.SearchTest" />
@@ -172,7 +165,7 @@
       <workItem from="1646133683219" duration="437000" />
       <workItem from="1646184730689" duration="16024000" />
       <workItem from="1646272041883" duration="9323000" />
-      <workItem from="1646293314359" duration="3862000" />
+      <workItem from="1646293314359" duration="4028000" />
     </task>
     <servers />
   </component>
@@ -188,25 +181,25 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1060" y="455" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1645084203719" />
-    <state width="1450" height="153" key="GridCell.Tab.0.bottom" timestamp="1646297429946">
+    <state width="1450" height="153" key="GridCell.Tab.0.bottom" timestamp="1646297624379">
       <screen x="0" y="0" width="1493" height="933" />
     </state>
-    <state width="1450" height="153" key="GridCell.Tab.0.bottom/0.0.1493.933@0.0.1493.933" timestamp="1646297429946" />
+    <state width="1450" height="153" key="GridCell.Tab.0.bottom/0.0.1493.933@0.0.1493.933" timestamp="1646297624379" />
     <state width="1236" height="244" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1645103772923" />
-    <state width="1450" height="153" key="GridCell.Tab.0.center" timestamp="1646297429946">
+    <state width="1450" height="153" key="GridCell.Tab.0.center" timestamp="1646297624379">
       <screen x="0" y="0" width="1493" height="933" />
     </state>
-    <state width="1450" height="153" key="GridCell.Tab.0.center/0.0.1493.933@0.0.1493.933" timestamp="1646297429946" />
+    <state width="1450" height="153" key="GridCell.Tab.0.center/0.0.1493.933@0.0.1493.933" timestamp="1646297624379" />
     <state width="1236" height="244" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1645103772923" />
-    <state width="1450" height="153" key="GridCell.Tab.0.left" timestamp="1646297429946">
+    <state width="1450" height="153" key="GridCell.Tab.0.left" timestamp="1646297624379">
       <screen x="0" y="0" width="1493" height="933" />
     </state>
-    <state width="1450" height="153" key="GridCell.Tab.0.left/0.0.1493.933@0.0.1493.933" timestamp="1646297429946" />
+    <state width="1450" height="153" key="GridCell.Tab.0.left/0.0.1493.933@0.0.1493.933" timestamp="1646297624379" />
     <state width="1236" height="244" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1645103772923" />
-    <state width="1450" height="153" key="GridCell.Tab.0.right" timestamp="1646297429946">
+    <state width="1450" height="153" key="GridCell.Tab.0.right" timestamp="1646297624379">
       <screen x="0" y="0" width="1493" height="933" />
     </state>
-    <state width="1450" height="153" key="GridCell.Tab.0.right/0.0.1493.933@0.0.1493.933" timestamp="1646297429946" />
+    <state width="1450" height="153" key="GridCell.Tab.0.right/0.0.1493.933@0.0.1493.933" timestamp="1646297624379" />
     <state width="1236" height="244" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1645103772923" />
     <state width="2517" height="489" key="GridCell.Tab.1.bottom" timestamp="1642254793203">
       <screen x="0" y="0" width="2560" height="1400" />
